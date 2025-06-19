@@ -5,6 +5,10 @@
 *Full Name:* Moad Elzawawi
 *Module:* Android Development Practicum
 
+## link for repo
+https://github.com/moadalzawawi/st10478537imad
+look at master branch for code
+
 ## 📱 Project Overview
 
 A simple Android application built with Kotlin that allows users to manage a music playlist. The app demonstrates fundamental Android development concepts including arrays, loops, screen navigation, and user input validation.
